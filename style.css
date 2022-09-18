@@ -1,7 +1,5 @@
 body {
     font-family: "Arial", sans-serif;
-    background-image: url("https://cdn.borntoengineer.com/2017/10/video-games.jpeg");
-    background-size: cover;
   } 
   
   section {
@@ -22,7 +20,7 @@ body {
       0 var(--_t,var(--h)) #fff,
       0 0 var(--_c,#000);
     background: 
-      linear-gradient(#1095c1 0 0) 
+      linear-gradient(#10c180 0 0) 
       bottom/100% var(--_d, 0) no-repeat;
     transition: 0.3s;
   }
@@ -39,7 +37,7 @@ body {
     width: 306px;
     margin: 10px auto;
     background-color: #11213a;
-    color: black;
+    color: white;
   }
   
   .cell {
@@ -55,12 +53,12 @@ body {
   
   .game--status {
     font-size: 50px;
-    color: red;
+    color:blueviolet;
     margin: 20px auto;
   }
   
   .game--restart {
-    background-color: green;
+    background-color:aqua;
     width: 200px;
     height: 50px;
     font-size: 25px;
@@ -68,40 +66,5 @@ body {
     border-radius: 20%;
   }
   
-  #a{
-    background-image: url("https://cdn3.iconfinder.com/data/icons/cinema-40/64/Ironman-marvel_movie_marvel_superhero_avengers-512.png");
-    background-size: cover;
-    
-  }
-  #b{
-    background-image: url("https://cdn3.iconfinder.com/data/icons/cinema-40/64/Deadpool_movie_marvel_superhero_avengers-512.png");
-    background-size: cover;
-  }
-  #c{
-    background-image: url("https://cdn4.iconfinder.com/data/icons/movies-2-flat/60/068_-_Hulk-512.png");
-    background-size:cover;
-  }
-  #d{
-    background-image: url("https://cdn3.iconfinder.com/data/icons/marvel-avatars-flaticons/64/falcon-avangers-marvel-avatars-gartoon-marvel_avatars-hero-512.png");
-    background-size: cover;
-  }
-  #e{
-    background-image: url("https://cdn3.iconfinder.com/data/icons/cinema-39/64/Spiderman-marvel_movie_marvel_superhero_avengers-512.png");
-    background-size: cover;
-  }
-  #f{
-    background-image: url("https://cdn.iconscout.com/icon/premium/png-256-thumb/captain-america-1508499-1276350.png");
-    background-size: cover;
-  }
-  #g{
-    background-image: url("https://cdn1.iconfinder.com/data/icons/people-avatars-23/24/people_avatar_head_marvel_thor_asgardian-512.png");
-    background-size: cover;
-  }
-  #h{
-    background-image: url("https://cdn.iconscout.com/icon/premium/png-256-thumb/blackpanther-1508158-1276043.png");
-    background-size: cover;
-  }
-  #i{
-    background-image: url("https://cdn.iconscout.com/icon/premium/png-256-thumb/thor-1508169-1276026.png");
-    background-size: cover;
-  }
+
+  
